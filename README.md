@@ -55,13 +55,6 @@ Here are some projects I’m proud of:
 
 ---
 
-### 🎯 What I'm Looking For
-- Collaborators on open-source projects related to **AI for Good**.
-- Opportunities to contribute to research or industry projects in **AI/ML**.
-- Mentors or guidance for applying machine learning in **healthcare** and **environmental sciences**.
-
----
-
 ### ⚡ Fun Fact
 I’m fascinated by how AI can replicate human thought processes and help solve global challenges like climate change and public health crises! 🌱🌍  
 When I'm not coding, you'll find me exploring nature, reading about AI ethics, or tinkering with new tech gadgets. ✨
