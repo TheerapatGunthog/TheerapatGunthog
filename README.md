@@ -17,37 +17,6 @@ I’m **Theerapat Gunthong**, a Computer Engineering student from **Rajamangala 
 
 ---
 
-### 🛠️ Technical Skills
-#### Programming
-- **Languages:** Python, R, SQL, MATLAB
-- **Web Development:** Flask, FastAPI
-
-#### AI & ML Frameworks
-- **Libraries:** PyTorch, TensorFlow, Scikit-learn
-- **NLP Tools:** HuggingFace Transformers, SpaCy, NLTK
-
-#### Data Science Toolkit
-- **Data Wrangling:** Pandas, NumPy
-- **Data Visualization:** Matplotlib, Seaborn, Plotly, Power BI
-- **Big Data Tools:** Apache Spark, Hadoop
-- **Databases:** MySQL, PostgreSQL, MongoDB
-
-#### Cloud & Deployment
-- **Cloud Platforms:** AWS, Google Cloud, Azure
-- **Containerization:** Docker
-- **Version Control:** Git, GitHub, GitLab
-
----
-
-### 📈 Projects
-Here are some projects I’m proud of:
-1. **Video Encrption And Decription With Rust**  
-   - Developed a video encrption and description with rust.
-   - Tools used: rust.
-   - **[Repository Link](https://github.com/TheerapatGunthong/video-encrption-and-decription-with-rust)**
-
----
-
 ### 🌐 Get in Touch
 - 📫 **Email:** [bellbelieve.work@gmail.com](mailto:bellbelieve.work@gmail.com)  
 - 💻 **GitHub:** [TheerapatGunthong](https://github.com/TheerapatGunthong)  
